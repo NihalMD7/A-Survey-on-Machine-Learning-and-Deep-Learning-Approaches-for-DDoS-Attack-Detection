@@ -7,8 +7,7 @@
   Department of Computer Science, Cleveland State University
   Course project · 2025–2026
 
-  📄 **[Read the paper (PDF)](ddos-survey.pdf)**
-  
+ 
   ---                                                                                                                                                                                                     
 
   ## Overview
@@ -106,7 +105,7 @@
   ## Related work in this repo
 
   The multi-class evaluation argument in this survey motivated a companion
-  implementation: [**ddos-detection**](https://github.com/<username>/ddos-detection)
+  implementation: [**ddos-detection**](https://github.com/NihalMD7/DDOS.git)
   — feed-forward and 1D-CNN classifiers over 13 CICDDoS2019 classes, reaching
   88.3% accuracy / 0.91 weighted F1 on 430k+ flows.
 
